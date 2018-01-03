@@ -13,7 +13,7 @@ client.user.setStatus("dnd");
 
 // playing
 client.on('ready', () => {                           
-client.user.setGame(``,'https://www.twitch.tv/Ahmed');                                                                                                                                                                                                                                                                                                                                                                                                                             client.user.setGame(`.help | On 1 Servers`,'https://www.twitch.tv/Ahmed');
+client.user.setGame(``,'https://www.twitch.tv/Ahmed');                                                                                                                                                                                                                                                                                                                                                                                                                             client.user.setGame(`(: | On 1 Servers`,'https://www.twitch.tv/Ahmed');
 });          
 
 
